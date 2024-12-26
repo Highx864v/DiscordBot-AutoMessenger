@@ -49,8 +49,8 @@ DiscordBot-AutoMessenger is a Python-based Discord bot designed to simplify auto
 ## Usage
 
 ### Automated Messaging
-- **The bot sends automated messages at specific times (06:00, 12:00, 18:00). These times can be adjusted in the code under the target_times list.
+- The bot sends automated messages at specific times (06:00, 12:00, 18:00). These times can be adjusted in the code under the target_times list.
 ### Manual Messaging
-- **Use the /send_message slash command to manually send announcements. This requires Administrator permissions.
+- Use the /send_message slash command to manually send announcements. This requires Administrator permissions.
 ### Restart Bot
-- **Admins can restart the bot with /restart for quick troubleshooting or updates.
+- Admins can restart the bot with /restart for quick troubleshooting or updates.
